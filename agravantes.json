@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "nome": "Reincidência",
+        "possui_grau": true,
+        "grau_opcoes": "Leve, Média, Grave"
+    },
+    {
+        "id": 2,
+        "nome": "Motivo fútil",
+        "possui_grau": false,
+        "grau_opcoes": ""
+    },
+    {
+        "id": 3,
+        "nome": "Concurso de pessoas",
+        "possui_grau": true,
+        "grau_opcoes": "1, 2, 3 ou mais"
+    },
+    {
+        "id": 4,
+        "nome": "Meio cruel",
+        "possui_grau": false,
+        "grau_opcoes": ""
+    },
+    {
+        "id": 5,
+        "nome": "Emprego de veneno, fogo, explosivo ou tortura",
+        "possui_grau": false,
+        "grau_opcoes": ""
+    },
+    {
+        "id": 6,
+        "nome": "Dificultar defesa da vítima",
+        "possui_grau": false,
+        "grau_opcoes": ""
+    },
+    {
+        "id": 7,
+        "nome": "Abuso de autoridade",
+        "possui_grau": false,
+        "grau_opcoes": ""
+    },
+    {
+        "id": 8,
+        "nome": "Abuso de confiança",
+        "possui_grau": false,
+        "grau_opcoes": ""
+    },
+    {
+        "id": 9,
+        "nome": "Emprego de violência ou grave ameaça",
+        "possui_grau": true,
+        "grau_opcoes": "Leve, Média, Grave"
+    }
+]

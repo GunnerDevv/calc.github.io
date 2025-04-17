@@ -1,0 +1,206 @@
+[
+  {
+    "id": "33",
+    "nome": "Tráfico de drogas",
+    "pena_minima": 5,
+    "pena_maxima": 15
+  },
+  {
+    "id": "121",
+    "nome": "Homicídio simples",
+    "pena_minima": 6,
+    "pena_maxima": 20
+  },
+  {
+    "id": "121 §2º",
+    "nome": "Homicídio qualificado",
+    "pena_minima": 12,
+    "pena_maxima": 30
+  },
+  {
+    "id": "121 §3º",
+    "nome": "Homicídio culposo",
+    "pena_minima": 1,
+    "pena_maxima": 3
+  },
+  {
+    "id": "122",
+    "nome": "Induzimento, instigação ou auxílio a suicídio ou a automutilação",
+    "pena_minima": 1,
+    "pena_maxima": 6
+  },
+  {
+    "id": "123",
+    "nome": "Infanticídio",
+    "pena_minima": 2,
+    "pena_maxima": 6
+  },
+  {
+    "id": "124",
+    "nome": "Aborto provocado pela gestante ou com seu consentimento",
+    "pena_minima": 1,
+    "pena_maxima": 3
+  },
+  {
+    "id": "125",
+    "nome": "Aborto provocado por terceiro",
+    "pena_minima": 3,
+    "pena_maxima": 10
+  },
+  {
+    "id": "129",
+    "nome": "Lesão corporal",
+    "pena_minima": 3,
+    "pena_maxima": 12
+  },
+  {
+    "id": "129 §6º",
+    "nome": "Lesão corporal seguida de morte",
+    "pena_minima": 4,
+    "pena_maxima": 12
+  },
+  {
+    "id": "129 §9º",
+    "nome": "Lesão corporal (violência doméstica)",
+    "pena_minima": 0.25,
+    "pena_maxima": 3
+  },
+  {
+    "id": "138",
+    "nome": "Calúnia",
+    "pena_minima": 0.5,
+    "pena_maxima": 2
+  },
+  {
+    "id": "139",
+    "nome": "Difamação",
+    "pena_minima": 0.25,
+    "pena_maxima": 1
+  },
+  {
+    "id": "140",
+    "nome": "Injúria",
+    "pena_minima": 0.08333333333333333,
+    "pena_maxima": 0.5
+  },
+  {
+    "id": "147",
+    "nome": "Ameaça",
+    "pena_minima": 1,
+    "pena_maxima": 6
+  },
+  {
+    "id": "155",
+    "nome": "Furto simples",
+    "pena_minima": 1,
+    "pena_maxima": 4
+  },
+  {
+    "id": "155 §4º",
+    "nome": "Furto qualificado",
+    "pena_minima": 2,
+    "pena_maxima": 8
+  },
+  {
+    "id": "157",
+    "nome": "Roubo simples",
+    "pena_minima": 4,
+    "pena_maxima": 10
+  },
+  {
+    "id": "157 §2º",
+    "nome": "Roubo qualificado",
+    "pena_minima": 7,
+    "pena_maxima": 18
+  },
+  {
+    "id": "157 §3º",
+    "nome": "Latrocínio",
+    "pena_minima": 20,
+    "pena_maxima": 30
+  },
+  {
+    "id": "158",
+    "nome": "Extorsão",
+    "pena_minima": 4,
+    "pena_maxima": 10
+  },
+  {
+    "id": "171",
+    "nome": "Estelionato",
+    "pena_minima": 1,
+    "pena_maxima": 5
+  },
+  {
+    "id": "180",
+    "nome": "Receptação",
+    "pena_minima": 1,
+    "pena_maxima": 4
+  },
+  {
+    "id": "213",
+    "nome": "Estupro",
+    "pena_minima": 6,
+    "pena_maxima": 10
+  },
+  {
+    "id": "213 §1º",
+    "nome": "Estupro com lesão corporal grave",
+    "pena_minima": 8,
+    "pena_maxima": 12
+  },
+  {
+    "id": "213 §2º",
+    "nome": "Estupro seguido de morte",
+    "pena_minima": 12,
+    "pena_maxima": 30
+  },
+  {
+    "id": "214",
+    "nome": "Violação sexual mediante fraude",
+    "pena_minima": 2,
+    "pena_maxima": 6
+  },
+  {
+    "id": "215-A",
+    "nome": "Importunação sexual",
+    "pena_minima": 1,
+    "pena_maxima": 5
+  },
+  {
+    "id": "217-A",
+    "nome": "Estupro de vulnerável",
+    "pena_minima": 8,
+    "pena_maxima": 20
+  },
+  {
+    "id": "218",
+    "nome": "Satisfação de lascívia mediante presença de criança ou adolescente",
+    "pena_minima": 1,
+    "pena_maxima": 3
+  },
+  {
+    "id": "218-B",
+    "nome": "Favorecimento da prostituição ou outra forma de exploração sexual de vulnerável",
+    "pena_minima": 4,
+    "pena_maxima": 10
+  },
+  {
+    "id": "288",
+    "nome": "Associação criminosa",
+    "pena_minima": 1,
+    "pena_maxima": 3
+  },
+  {
+    "id": "299",
+    "nome": "Falsidade ideológica",
+    "pena_minima": 1,
+    "pena_maxima": 5
+  },
+  {
+    "id": "304",
+    "nome": "Uso de documento falso",
+    "pena_minima": 2,
+    "pena_maxima": 6
+  }
+]
